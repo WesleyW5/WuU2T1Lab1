@@ -11,6 +11,8 @@ public class RectangleRunner {
 
         Rectangle rect3 = new Rectangle( 10, 10);
         rect3.printArea();
+        rect3.printPerimeter();
+
     }
 }
 
